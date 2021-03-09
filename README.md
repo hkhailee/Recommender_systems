@@ -1,3 +1,11 @@
+# Download movielens data 
+ https://grouplens.org/datasets/movielens/
+ 
+ either ml-25m // recommended!
+ or
+ ml-20m 
+ if you need to run the ml-20m then code needs to be modified in A2.ipynb and inputTraining.py
+
 # execution of files: 
 
 # RUN notebook : 
