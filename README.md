@@ -17,5 +17,6 @@
     * this runs all algorithm alterations of our inputTraining.py and adds visualization data to our csv's
 
 # RUN notebook: 
-    Rec-Visualozation 
+    Rec-Visualization 
     * this will display all several algorithms rmse and ndcg comparisions in the form of bar charts
+    * When done push Rec-Visualization notebook along with a PDF copy
