@@ -1,6 +1,6 @@
 # Repository focuses on recommender systems in python. 
 
-Main project labeled as final is in relation to current thesis implementation. The recommender system was able to take in a given user screenshot of a application and have
+Main project labeled as imageSimilarity is in relation to current thesis implementation. The recommender system was able to take in a given user screenshot of a application and have
 the code return recommended images based on that given screenshot. 
 
 Data taken from : https://interactionmining.org/rico
